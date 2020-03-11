@@ -5,7 +5,7 @@ Building detection for gis department using Keras framework
 
 Data Source: https://drive.google.com/open?id=1sfGXpdCHMQAqlWDYvnbPJi8zWqK144TU
  
-<img src = "https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-architecture.png">
+![unet](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-architecture.png")
 
 ### Due to limited computational power trained  with around 177 images.
 
