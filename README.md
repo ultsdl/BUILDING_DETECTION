@@ -24,6 +24,9 @@ Data Source: https://drive.google.com/open?id=1sfGXpdCHMQAqlWDYvnbPJi8zWqK144TU
 
 ### Results can be further improved with more images and better computational power
 
+Some reaserch pappers followed:
+Unet: https://arxiv.org/abs/1505.04597
+Deep Residual U-Net: https://arxiv.org/abs/1711.10684
 
 
 
