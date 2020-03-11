@@ -12,7 +12,7 @@ Data Source: https://drive.google.com/open?id=1sfGXpdCHMQAqlWDYvnbPJi8zWqK144TU
 
 * image size of 128 x 128 choosen
 
-* Tried with mainly 2 types of architectures:
+#### Tried with mainly 2 types of architectures:
       1. basic unet + data augemnetation
       2. unet + resnet + data augmentation
       
@@ -24,6 +24,6 @@ Data Source: https://drive.google.com/open?id=1sfGXpdCHMQAqlWDYvnbPJi8zWqK144TU
 
 * Results can be further improved with more images and better computational power
 
-* Some reaserch pappers followed:
-      Unet: https://arxiv.org/abs/1505.04597
-      Deep Residual U-Net: https://arxiv.org/abs/1711.10684
+#### Some reaserch pappers followed:
+      1. Unet: https://arxiv.org/abs/1505.04597
+      2. Deep Residual U-Net: https://arxiv.org/abs/1711.10684
